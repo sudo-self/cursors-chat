@@ -6,7 +6,7 @@ function App({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>chat</title>
+        <title>Notes</title>
         <meta name="robots" content="noindex" />
         <meta name="viewport" content="width=device-width, user-scalable=no" />
         <link
